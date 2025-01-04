@@ -1,9 +1,9 @@
 from PyPDF2 import PdfWriter, PdfReader
 
-# ENTER PDF FILE NAMES, OUTPUT PDF NAME, AND OUTPUT PDF PATH HERE.
-pdf_list = ["test1.pdf","test2.pdf"]
+# ENTER PDF FILE PATHS, OUTPUT PDF NAME, AND OUTPUT PDF PATH HERE.
+pdf_list = ["test1.pdf","test2.pdf"] # format with forward slashes and no trailing slash OR use relative file paths by placing the file in the same directory as this script
 output_pdf_name = "merged.pdf"
-output_pdf_path = "C:/Users/justi/Downloads" # format with forward slashes and no trailing slash
+output_pdf_path = "" # format with forward slashes and no trailing slash OR leave blank for output file destination to be the same directory as this script
 # ---------------------------------------------------------------
 
 new_pdf = {

@@ -1,6 +1,6 @@
 <p align="center">
-   <img width="1000" alt="image" src="https://gist.github.com/user-attachments/assets/ee8e9eb3-ebc4-41f4-8480-a3f483de1426"/>
-</p>
+   <img width="1000" alt="image" src="https://github.com/user-attachments/assets/86380fc3-ab0a-4c5c-a86b-554b0836431e"/>
+</p
 
 # PDF Merger
 PDF Merger is a tool to easily merge PDF files, including error handling which I created using the PyPDF2 library.
